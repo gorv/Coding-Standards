@@ -5,4 +5,5 @@
 . Always use semi-colons. Omitting them will produce errors in production code.
 . Add comments where needed.
 . Use shorthand property wherever possible.
-. Use 3 character hexadecimal notation where possible.
+. Use 3 character hexadecimal notation where possible
+. css modification.
