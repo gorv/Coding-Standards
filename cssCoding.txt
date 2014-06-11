@@ -6,5 +6,4 @@
 6. Add comments where needed.
 7. Use shorthand property wherever possible.
 8. Use 3 character hexadecimal notation where possible.
-9. It is the end of it. If you know something, please add.
-
+9. css modification.
