@@ -1,0 +1,8 @@
+. Class Names must be used for styling for the reason, the CSS file can be included later somewhere else.
+. CSS must be included in an HTML file using external stylesheets, this way it becomes more manageable.
+. Class Names if having long names must be camel-cased like large_button.
+. Remove trailing whitecases.
+. Always use semi-colons. Omitting them will produce errors in production code.
+. Add comments where needed.
+. Use shorthand property wherever possible.
+. Use 3 character hexadecimal notation where possible.
