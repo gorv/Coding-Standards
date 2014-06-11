@@ -1,5 +1,5 @@
 1. Do proper indentations.
-2. Add title in Head.
+2. Add title in head.
 3. Avoid using <center>.
 4. Include CSS file in <head> to load all the styles in starting.
 5. Include JavaScript file in <body> after everything else to avoid errors as all the IDs and Classes would have been defined.It would be even better to make a  seperate Javascript file and include it inside head part of HTML page.
