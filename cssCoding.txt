@@ -2,7 +2,7 @@
 2. CSS must be included in an HTML file using external stylesheets, this way it becomes more manageable.
 3. Class Names if having long names with more than one word must be used like large_button.
 4. Remove trailing whitecases.
-5. Always use semi-colons. Omitting them will produce errors in production code.
+5. Always use semi-colons.Omitting them will produce errors in production code.
 6. Add comments where needed.
 7. Use shorthand property wherever possible.
 8. Use 3 character hexadecimal notation where possible.
